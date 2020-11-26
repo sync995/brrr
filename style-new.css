@@ -1,0 +1,86 @@
+body {
+  background-color: #EDEDED;
+  margin: 0;
+  border-radius: 5%;
+  }
+
+#mainHeading {
+  text-align: center;
+  padding-top: 17px;
+}
+
+#mainHeading h1 {
+  font-size: 45px;
+}
+
+#mainHeading p {
+  font-size: 15px;
+
+}
+.backgroundofimage {
+  background-color: white;
+}
+.image1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 55%;
+}
+#paragraph {
+  text-align: center;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#paragraph p {
+  padding-bottom: 12px;
+  color: rgb(51, 51, 51);
+}
+
+#borlaugslife {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#borlaugslife h4 {
+  font-size: 25px;
+  color: rgb(51, 51, 51);
+}
+
+ul {
+  max-width: 550px;
+  font-size: 16px;
+  color: rgb(51, 51, 51);
+
+}
+
+li {
+  padding-bottom: 10px;
+  text-align: left;
+}
+
+#borlagusparagraphs {
+  position: relative;
+  top: 0;
+  left: 35.5%;
+  max-width: 550px;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+}
+#borlagusparagraphs p {
+  max-width: 550px;
+  font-style: italic;
+  text-align: left;
+}
+
+#footer {
+  max-width: 1200px;
+  margin-left: 20%;
+  display: block;
+  font-weight: bold;
+  font-size: 17px;
+  text-align: center;
+}
+#white {
+  background-color:white;
+}
